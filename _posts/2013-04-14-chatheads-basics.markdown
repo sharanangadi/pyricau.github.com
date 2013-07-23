@@ -162,11 +162,7 @@ Please take care of your user pixels.
 
 {% include comments.html %}
 
-<!--
+## [Sharan](http://facebook.com/sharanabasu)
+I am trying to add onclick listner to the chat head, 
+I am creating View.OnclickListner and setting it to chat head but I am not getting callbacks. Could you tell me how can I add onClickListner
 
-To comment, copy and paste the following block
-
-## [Nickname](http://website)
-Comment
-
--->
